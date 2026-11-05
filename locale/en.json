@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Status Bar Notifier",
+    "description": "Shows DeepSeek Harness status in the macOS menu bar (SwiftBar): pending approvals / running / finished tasks, with a dropdown that brings the window back; system notifications while you are away."
+  }
+}

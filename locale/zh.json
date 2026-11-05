@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "状态栏提醒",
+    "description": "在 macOS 菜单栏（SwiftBar）显示 DeepSeek Harness 运行状态：待批准 / 运行中 / 任务完成，点开下拉可唤回窗口；离开窗口时同时发送系统通知。"
+  }
+}

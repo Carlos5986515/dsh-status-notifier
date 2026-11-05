@@ -1,0 +1,4 @@
+- insert:
+    - id: status-notifier
+      name: '@local/dsh-status-notifier'
+      config: {}
